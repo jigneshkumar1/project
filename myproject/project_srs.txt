@@ -1,0 +1,27 @@
+chairman :
+
+                    - registration (admin through)
+                    - login 
+                    - forgot password
+                    -profile picture
+                    -profile update
+                    -can view all society members
+                    -can add notice
+                    - can view notice
+                    -can manage (edit/delete) notice
+                    - can view complaints
+
+
+
+====================================================================
+
+society member : 
+
+
+        -registration (chairman)
+        -login
+        -profile picture
+        -profile update
+        -can view notice
+        -can view eveents
+        -can add complatints
